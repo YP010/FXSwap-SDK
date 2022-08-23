@@ -1,7 +1,7 @@
 {
   "name": "@fx-swap/token-lists",
   "license": "MIT",
-  "version": "1.0.0-beta.6",
+  "version": "1.0.0-beta.7",
   "description": "📚 The Token Lists specification",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -13,7 +13,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/YP010/FXSwap-SDK/token-lists.git",
+    "url": "https://github.com/YP010/FXSwap-SDK/tree/main/token-lists",
     "type": "git"
   },
   "scripts": {
