@@ -49,14 +49,14 @@ export const WETH9: { [chainId in ChainId]: Token } = {
     ChainId.FXCORE,
     '0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd',
     18,
-    'WETH9',
-    'Wrapped Ether'
+    'FX',
+    'Wrapped FX'
   ),
   [ChainId.DHOBYGHAUT]: new Token(
     ChainId.DHOBYGHAUT,
     '0x3452e23F9c4cC62c70B7ADAd699B264AF3549C19',
     18,
-    'WETH9',
-    'Wrapped Ether'
+    'FX',
+    'Wrapped FX'
   )
 }
