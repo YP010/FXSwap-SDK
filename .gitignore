@@ -1,0 +1,13 @@
+.DS_Store
+
+token-lists/dist
+token-lists/node_modules
+token-lists/.DS_Store
+
+v2-sdk/dist
+v2-sdk/node_modules
+v2-sdk/.DS_Store
+
+sdk-core/dist
+sdk-core/node_modules
+sdk-core/.DS_Store
